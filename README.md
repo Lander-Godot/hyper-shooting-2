@@ -1,10 +1,3 @@
-![Logo](https://github.com/funabab/godot-git-control/raw/master/addons/godot-git-control.funabab/logo.png)
-
-# Godot Git Control #
-
-This is a simple Git Companion plugin for @godotengine
-
-![ScreenShot](https://github.com/funabab/godot-git-control/raw/master/addons/godot-git-control.funabab/screenshot.png)
-
-## minnor rewrite
-## added godotengine 3 support and some other features
+ Spiritual successor to [hyper-shooting](https://github.com/Lander-Unity/Hyper-Shooting).
+ 
+ Features a "Skiing" system similar to the Tribes series, and action dive / prone actions comparable to Max Payne or Action Half Life.
